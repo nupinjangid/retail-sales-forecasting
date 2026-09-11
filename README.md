@@ -6,6 +6,10 @@ The project uses the Superstore dataset to identify sales trends, forecast the n
 
 ## Dashboard Preview
 
+🚀 **[Live Interactive Dashboard](https://retail-sales-forecasting-by-nupin.streamlit.app/)**
+
+![Retail Sales Forecasting Dashboard](screenshots/dashboard.png)
+
 ![Retail Sales Forecasting Dashboard](screenshots/dashboard.png)
 
 The interactive dashboard provides:
